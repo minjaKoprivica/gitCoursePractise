@@ -1,4 +1,4 @@
-LILY'S PATRONU
+LILY'S PATRONUS
                    .     _,
                    |`\__/ /
                    \  . .(
@@ -14,3 +14,5 @@ LILY'S PATRONU
      ||  \\       |||
      )\   )\      )||
      `"   `"      `""
+
+This is lily's patronus
